@@ -68,3 +68,75 @@ Learning Python and building programming skills one program at a time.
 ---
 
 ⭐ If you find this repository helpful, consider giving it a star!
+# Python Basics
+
+A small collection of beginner-friendly Python scripts that demonstrate core programming concepts: functions and loops, number sequences, and dictionaries.
+
+## Contents
+
+| File | Description |
+|------|-------------|
+| `factorial.py` | Computes the factorial of 5 |
+| `fibonacci.py` | Prints the first 10 Fibonacci numbers |
+| `student_dict.py` | Stores student data in a dictionary and prints it |
+
+## Requirements
+
+- Python 3.6 or higher
+
+No external libraries are needed.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/himanshujaat0680/pythonbasic-25bcon2654.git
+cd pythonbasic-25bcon2654
+```
+
+## Usage
+
+Run any script with Python:
+
+```bash
+python factorial.py
+python fibonacci.py
+python student_dict.py
+```
+
+## Script Details
+
+### `factorial.py`
+
+Calculates the factorial of 5 (5! = 5 × 4 × 3 × 2 × 1).
+
+**Expected output:**
+
+```
+120
+```
+
+### `fibonacci.py`
+
+Prints the first 10 numbers of the Fibonacci sequence, where each number is the sum of the two before it.
+
+**Expected output:**
+
+```
+0 1 1 2 3 5 8 13 21 34
+```
+
+### `student_dict.py`
+
+Demonstrates how to store student information (such as name, age, and grades) in a Python dictionary and print it.
+
+**Concepts covered:** dictionary creation, key-value pairs, printing data.
+
+## Contributing
+
+Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
